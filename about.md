@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-https://www.linkedin.com/in/adjusting
+[LinkedIn](https://www.linkedin.com/in/adjusting)
