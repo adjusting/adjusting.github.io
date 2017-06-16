@@ -42,4 +42,3 @@ class MyNewDelegate: NSObject, UITextFieldDelegate {
         textField1.delegate = myDelegate
     }
 ```
-
