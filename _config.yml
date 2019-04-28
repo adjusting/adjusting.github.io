@@ -17,8 +17,7 @@ title: Learnings
 author: Justin Gareau
 email: adjusting@mac.com
 description: > # this means to ignore newlines until "baseurl:"
-  This blog is meant to record the things I've learned while completing the iOS
-  Developer nanodegree at Udacity.
+  This blog is meant to record the things I've learned.
   It is mainly intended as an aid to my memory, but if anything here helps you,
   all the better.
 baseurl: "" # the subpath of your site, e.g. /blog
